@@ -7,10 +7,10 @@ Each project has its own dedicated repository — links are listed below.
 
 ## 📂 Projects
 
-- [🎬 Cinema Ticket Booking System]((https://github.com/gozdegonul/sinemabilet.git))  
+- [🎬 Cinema Ticket Booking System](https://github.com/gozdegonul/sinemabilet.git) 
  A C# Windows Forms application for booking movie tickets. The system allows users to select films, choose session times, reserve seats, and finalize their bookings through a user-friendly graphical interface.
 
-- [🗳️ Election Statistics Viewer]((https://github.com/gozdegonul/secimistatistik.git))  
+- [🗳️ Election Statistics Viewer](https://github.com/gozdegonul/secimistatistik.git)
 This is a C# Windows Forms application for visualizing vote distribution and ballot box opening rates across cities and districts. The interface allows users to input party vote counts and view visual summaries of the results.
 
 - [💱 Currency Exchange System](https://github.com/gozdegonul/dovizalissatis.git)  
